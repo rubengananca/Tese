@@ -2,6 +2,8 @@ import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
+// TODO: Quando a aplicação é encerrada a galeria volta a ficar a 0. Guardar o estado da mesma
+
 class Galery extends StatelessWidget {
   const Galery({super.key});
 
